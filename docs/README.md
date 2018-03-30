@@ -2,7 +2,7 @@
 
 Есть робот, у него установлены датчики, меряющие расстояния (в принципе, это не важно, какие датчики будут).
 
-![](https://github.com/farwydi/robot-ai/blob/master/robot-vis.jpg)
+![](https://github.com/farwydi/robot-ai/blob/master/docs/robot-vis.png?raw=true)
 
 ## Характеристики датчика
 
@@ -40,7 +40,7 @@
 
 # Задача
 
-![](https://github.com/farwydi/robot-ai/blob/master/robot-math.png)
+![](https://github.com/farwydi/robot-ai/blob/master/docs/robot-math.png?raw=true)
 
 - У робота есть координаты (x, y).
 - Робот испускает лучи из центра по заданному направлению (градусы относительно направления робота).
