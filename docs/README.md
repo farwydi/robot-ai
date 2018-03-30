@@ -2,7 +2,7 @@
 
 Есть робот, у него установлены датчики, меряющие расстояния (в принципе, это не важно, какие датчики будут).
 
-![](https://github.com/farwydi/robot-ai/blob/master/docs/robot-vis.png?raw=true)
+![](https://github.com/farwydi/robot-ai/blob/master/docs/robot-vis.jpg?raw=true)
 
 ## Характеристики датчика
 
